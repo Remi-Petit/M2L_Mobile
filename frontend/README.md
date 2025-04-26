@@ -1,16 +1,22 @@
-# flutterapp
+# Frontend Flutter
+.
+Pour rappel, Vous pouvez voir [mon blog](https://blog.remipetit.fr/comment-installer-rapidement-et-facilement-flutter/), je vous montre comment l'avoir que ce soit sur Windows, Linux ou Mac.
 
-A new Flutter project.
+## Aller dans le bon dossier
 
-## Getting Started
+cd ./frontend
 
-This project is a starting point for a Flutter application.
+## Installer les dépendances
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Lancer le projet
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run
+
+## A savoir
+
+Flutter est un outil open source développé par Google, qui permet de développer des applications multiplateformes (Android, iOS, web, Windows, Mac, Linux) à partir d’un seul et unique code source.
+
+Après avoir fait "flutter run", vous aurez le choix de comment le visualiser.
+En appuyant sur 2, ça va le lancer sur Chrome. Vous ce sera peut-être un chiffre différent.
