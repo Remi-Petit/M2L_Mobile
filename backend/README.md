@@ -1,19 +1,24 @@
-"# express-mariadb-sample" 
+## Backend Node JS
 
-run this command
+API pour le frontend.
+
+## Aller dans le bon dossier
+
+cd ./backend
+
+## Installer les dépendances
 
 ```cmd
 npm install
 ```
 
-then run this for development
-
+## Lancer le serveur
 
 ```cmd
 npm run dev
 ```
-or this for production
 
-```cmd
-npm run prod
-```
+## A savoir
+
+Dans /config, il faut mettre le fichier ".env" avec votre configuration.
+Vous avez un exemple de configuration avec "/config/dev.env".

@@ -4,15 +4,21 @@ Pour rappel, Vous pouvez voir [mon blog](https://blog.remipetit.fr/comment-insta
 
 ## Aller dans le bon dossier
 
+```cmd
 cd ./frontend
+```
 
 ## Installer les dépendances
 
+```cmd
 flutter pub get
+```
 
 ## Lancer le projet
 
+```cmd
 flutter run
+```
 
 ## A savoir
 
